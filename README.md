@@ -2,7 +2,7 @@
 quick trial of CPI metadata in json format
 
 # Whole thing
-```json
+```
 {'Concept Scheme': [{'concept': [{'Label': 'United Kingdom',
                                   'Notation': 'K04000001'}],
                      'dct:title': 'Geography'},
