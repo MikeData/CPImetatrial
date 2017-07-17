@@ -1,7 +1,7 @@
 # CPImetatrial
-quick trial of CPI metadata in json format
+Contains a download for CPI trial metadata fil.e
 
-# Whole thing
+# Contents
 ```
 {'Concept Scheme': [{'concept': [{'Label': 'United Kingdom',
                                   'Notation': 'K04000001'}],
